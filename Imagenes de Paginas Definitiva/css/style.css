@@ -1,0 +1,148 @@
+body{
+    color: #405145;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    color: #66bfbf;
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: 'Monserrat', sans-serif;
+    padding-bottom: 10px;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.top-container{
+    background-color: #EAF9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.top-angela{
+    padding-top: 60px;
+}
+
+.b{
+    vertical-align: text-top;
+    color: #40514E;
+    font-weight: bold;
+    font-family: 'Monserrat', sans-serif;
+    padding-bottom: 10px;
+}
+
+.top-puntos{
+    padding-top: 60px;
+    padding-bottom: 25px;
+}
+
+.programar-image h3{
+    color: #11999E;
+    padding-right: 210px;
+}
+
+.programacion-image{
+    float: left;
+    padding-left: 300px;
+}
+
+.programar-image b{
+    padding-bottom: 150px;
+    clear: left;
+}
+.programar-image{
+    padding-right: 400px;
+}
+
+.chile-image h3{
+    color: #11999E;
+    padding-right: 200px;
+    padding-top: 100px;
+}
+.chilecomida{
+    height: 150px;
+    float: right;
+    padding-right: 350px;
+    padding-top: 100px;
+}
+
+.chile-image b{
+    padding-bottom: 150px;
+    clear: right;
+    text-align: justify;
+    padding-right: 100px;
+}
+
+.chile-image{
+    padding-left: 430px;
+}
+
+.top-puntosdos{
+    padding-top: 60px;
+    padding-bottom: 25px;
+    padding-left: 60px;
+}
+
+.textodeprogra h3{
+    color: #11999E;
+}
+
+.textodeprogra .nav-menu{margin-top:15px}
+.nav-menu{text-decoration: none;text-align:center}
+.rainbow{background-color:#343A40;border-radius:4px;color:#fff;cursor:pointer;padding:8px 16px}
+.rainbow-1:hover{background-image:linear-gradient(90deg,#00C0FF 0,#FFCF00 49%,#FC4F4F 80%,#00C0FF 100%);animation:slidebg 5s linear infinite}
+@keyframes slidebg{to{background-position:20vw}}
+.follow{margin-top:40px}
+.follow a{color:#000;padding:8px 16px;text-decoration:none}
+
+.nav-menu a:hover{
+    transition: 0.3s;
+    color: #11999E;
+}
+
+.textodeprogra .nav-menu{
+    padding-top: 15px;
+    padding-bottom: 120px;
+}
+
+.onlinemedia .nav-menu1 a:hover{
+        transition: 0.3s;
+        color: #0048b4;
+}
+
+.onlinemedia .nav-menu1{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+footer{
+    text-align: center;
+    background-color: #66BFBF;
+}
+
+p{
+    color: white;
+}
